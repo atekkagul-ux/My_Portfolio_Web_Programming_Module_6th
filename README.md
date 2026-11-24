@@ -48,9 +48,6 @@ You can view the live portfolio here:
 - **Module 2 Repo:** [My_Portfolio_Web_Programming_2nd_Module](https://github.com/atekkagul-ux/My_Portfolio_Web_Programming_2nd_Module)
 - **Module 3 Repo:** [Web_Programming_Internship_3rd_Module](https://github.com/atekkagul-ux/Web_Programming_Internship_3rd_Module)
 
-## Resume Link
--  file:///C:/Users/Riaz%20Bhatti/Documents/Codomax/Portfolio/Atteka_Ryaz_Resume.pdf
-  
 ## 👩‍💻 Author
 - **Name:** Atteka Ryaz
 - # My_Portfolio_Web_Programming_Module_6th
