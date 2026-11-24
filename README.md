@@ -43,12 +43,14 @@ You can view the live portfolio here:
 <img width="840" height="593" alt="image" src="https://github.com/user-attachments/assets/1fcb9b1a-4786-4c56-b425-50cd8d06b017" />
 <img width="746" height="440" alt="image" src="https://github.com/user-attachments/assets/9e6564fd-cf48-48ff-bcb5-19f1b277a50d" />
 
-## 🔗 Repository & Resume Links
+## 🔗 Repository Links
 - **Module 1 Repo:** [My-Portfolio_Web_Programming_Internship](https://github.com/atekkagul-ux/My-Portfolio_Web_Programming_Internship)
 - **Module 2 Repo:** [My_Portfolio_Web_Programming_2nd_Module](https://github.com/atekkagul-ux/My_Portfolio_Web_Programming_2nd_Module)
 - **Module 3 Repo:** [Web_Programming_Internship_3rd_Module](https://github.com/atekkagul-ux/Web_Programming_Internship_3rd_Module)
-- **Downloadable Resume:** [`Atteka_Ryaz_Resume.pdf`](Atteka_Ryaz_Resume.pdf)
-- 
+
+## Resume Link
+-  file:///C:/Users/Riaz%20Bhatti/Documents/Codomax/Portfolio/Atteka_Ryaz_Resume.pdf
+  
 ## 👩‍💻 Author
 - **Name:** Atteka Ryaz
 - # My_Portfolio_Web_Programming_Module_6th
